@@ -1,0 +1,30 @@
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.BUS.dll.config
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.BUS.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.BUS.pdb
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.DAL.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.DAL.pdb
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.DAL.dll.config
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.xml
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.csproj.AssemblyReference.cache
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.csproj.CoreCompileInputs.cache
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.csproj.Up2Date
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.BUS.dll.config
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.BUS.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.BUS.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.DAL.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.DAL.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\DoAn.DAL.dll.config
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.csproj.Up2Date
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\DoAn\DoAn\DoAn.BUS\obj\Debug\DoAn.BUS.pdb
